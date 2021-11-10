@@ -65,6 +65,13 @@
     <Compile Include="Assets\Script\MovimientoRepetidoPlayer.cs" />
     <Compile Include="Assets\Script\SeleccionarMenu.cs" />
     <Compile Include="Assets\Free Low Poly Chess Set\Example\Scripts\CameraRotate.cs" />
+    <Compile Include="Assets\Script\PersonajeSecuenciaDeMovimiento.cs" />
+    <Compile Include="Assets\Script\Objetivo0.cs" />
+    <Compile Include="Assets\Script\SeleccionarMenuGastronomia.cs" />
+    <Compile Include="Assets\Script\Objetivo1.cs" />
+    <Compile Include="Assets\Script\Objetivo2.cs" />
+    <Compile Include="Assets\Script\Objetivo3.cs" />
+    <Compile Include="Assets\Script\CamaraOrbital.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Free Low Poly Chess Set\README.txt" />
