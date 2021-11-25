@@ -11,7 +11,7 @@ public class SeleccionarMenuGastronomia : MonoBehaviour
     public GameObject Objetivo0;
     public GameObject Objetivo1;
     public GameObject Objetivo2;
-    public GameObject Objetivo3;
+    //public GameObject Objetivo3;
     //public GameObject PuntoInicio;
     public void PresionarMenu()
     {
@@ -22,7 +22,7 @@ public class SeleccionarMenuGastronomia : MonoBehaviour
         Objetivo0.SetActive(true);
         Objetivo1.SetActive(true);
         Objetivo2.SetActive(true);
-        Objetivo3.SetActive(true);
+        //Objetivo3.SetActive(true);
     }
     public void PresionarSalir()
     {
@@ -33,7 +33,7 @@ public class SeleccionarMenuGastronomia : MonoBehaviour
         Objetivo0.SetActive(false);
         Objetivo1.SetActive(false);
         Objetivo2.SetActive(false);
-        Objetivo3.SetActive(false);
+        //Objetivo3.SetActive(false);
 
     }
 }

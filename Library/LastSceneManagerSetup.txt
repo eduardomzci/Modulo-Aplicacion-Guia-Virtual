@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Escenarios/Gastronomia/Gastronomia_PrimerPiso.unity
+- path: Assets/Escenarios/Gastronomia/Gastronomia_PlantaBaja.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

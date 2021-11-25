@@ -14,7 +14,7 @@ public class PersonajeSecuenciaDeMovimiento : MonoBehaviour
     public Transform target;
     public Transform target1;
     public Transform target2;
-    public Transform target3;
+    //public Transform target3;
 
     public GameObject Pinicio;
     //public GameObject Camara;
@@ -74,10 +74,10 @@ public class PersonajeSecuenciaDeMovimiento : MonoBehaviour
         bx.enabled = true;
         agent.SetDestination(target2.position);
     }
-    public void Presionar_Objetivo_3()
-    {
-        BoxCollider bx = target3.GetComponent<BoxCollider>();
-        bx.enabled = true;
-        agent.SetDestination(target3.position);
-    }
+    //public void Presionar_Objetivo_3()
+    //{
+    //    BoxCollider bx = target3.GetComponent<BoxCollider>();
+    //    bx.enabled = true;
+    //    agent.SetDestination(target3.position);
+    //}
 }
